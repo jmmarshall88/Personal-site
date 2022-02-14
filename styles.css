@@ -89,19 +89,19 @@ hr{
   width: 80%;
   height: 320px;
   text-align: left;
-  margin-left: auto;
+  margin-left: 200px;
 
 }
 .skill-row2{
-  width: 82%;
+  width: 78%;
   height: 320px;
   text-align: right;
-  margin-right: auto;
+  margin-right: 0;
 }
 .web-design-img {
-  width: 325px;
+  width: 350px;
   height: 250px;
-  margin-right: 20px;
+  margin-right: 0;
   float: left;
 
 }
